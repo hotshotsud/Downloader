@@ -5,6 +5,9 @@ import requests
 url = 'http://alpha.wallhaven.cc/search?q=girls&categories=111&purity=100&sorting=favorites&order=desc&page='
 jpg = 'http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-%s.jpg'
 png = 'http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-%s.png'
+png = 'http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-%s.png'
+png = 'http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-%s.png'
+png = 'http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-%s.png'
 
 status = '\r[page {:0>3}] [image {:0>2}|24] [{:.<24}]'.format
 
